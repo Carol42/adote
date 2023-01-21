@@ -6,9 +6,12 @@
 
 <div align="center">
 <!--BADGE LICENÇA -->
-    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/adote?style=plastic">
+    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/adote?style=plastic&color=391D34">
 <!-- BADGE REPO SIZE -->
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/adote?color=181717&logo=github&style=plastic&logoColor=181717">
+ <!-- CODE SIZE BADGE -->
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Carol42/adote?color=181717&logo=github&style=plastic&logoColor=181717">
 <!-- BADGE TOP LANGUAGE -->
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/adote?color=3776AB&style=plastic">
 </div>
