@@ -14,6 +14,7 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Carol42/adote?color=181717&logo=github&style=plastic&logoColor=181717">
 <!-- BADGE TOP LANGUAGE -->
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/adote?color=3776AB&style=plastic">
+    <a href="https://github.com/Carol42/adote/actions/workflows/django.yml"><img src="https://github.com/Carol42/adote/actions/workflows/django.yml/badge.svg?branch=main" alt="Django CI" ></a>
 </div>
 
 <!-- SUMÁRIO / TABELA DE CONTEÚDOS -->
